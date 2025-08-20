@@ -64,6 +64,3 @@ The dataset was collected following ethical guidelines of **Daffodil Internation
 
 We express our gratitude to the **Daffodil International University Ethical Committee** for granting approval to collect this dataset. Special thanks to local farmers and fruit sellers for their cooperation, and to domain experts for their assistance in dataset validation.
 
----
-
-Would you like me to also create a **short “Usage Guide” section** (e.g., Python code snippet to load and preprocess the dataset) for the README so that other researchers can immediately apply it?
